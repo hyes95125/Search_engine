@@ -14,9 +14,9 @@ Input file:
 1. query.txt
 2. query_more.txt
 
-Dataset:
-1. data.zip (100 files)
-2. data_more.zip (1000 files)
+Dataset (data.zip):
+1. data (100 files)
+2. data_more (1000 files)
 
 command:
 g++ -std=c++17 filename.cpp -o filename
