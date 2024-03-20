@@ -11,11 +11,12 @@ Develop a data structure that contains the following functions, which allows use
 
 
 Input file:
-query.txt
-query_more.txt
+1. query.txt
+2. query_more.txt
 
 Dataset:
-data.zip
+1. data.zip (100 files)
+2. data_more.zip (1000 files)
 
 command:
 g++ -std=c++17 filename.cpp -o filename
